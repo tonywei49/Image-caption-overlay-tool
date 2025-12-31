@@ -1,1 +1,1 @@
-# tonywei
+# Image caption overlay tool
